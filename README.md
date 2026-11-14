@@ -205,4 +205,4 @@ This repository serves as the official landing page for Star Trek: Resurgence. T
 **Get the most recent version of Star Trek: Resurgence today!**
 
 ---
-**Last updated:** 2026-11-13 19:15:53 UTC
+**Last updated:** 2026-11-14 00:41:49 UTC
